@@ -1,4 +1,4 @@
-## Olá , me chamo Élber 💻
+💻 Élber 💻
 
 💻 Eu estudo ( Análise e Desenvolvimento de Sistemas). 💻 ||
 💻 Eu uso alguns programas como: javascript, mysql , python 💻
