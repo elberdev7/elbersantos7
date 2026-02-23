@@ -3,8 +3,11 @@
 
 - Me chamo Élber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UMC.
 
-- Ao longo do curso , eu aprendi algumas coisas como 
-- Banco de Dados | JavaScript | Python | Criação de Sites | IA
+- Ao longo do curso , eu utilizei algumas linguagens de programação como:
+- | JavaScript | HMTL | PHP | | Python |
+
+- E aprendi a criar alguns sistemas também como por exemplo:
+- Banco de Dados | Criação de Sites | IA
 
 <div>
 <a href="https://www.instagram.com/elbersantosxz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
