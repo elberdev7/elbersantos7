@@ -5,7 +5,6 @@
 
 - Ao longo do curso , eu utilizei algumas linguagens de programação como:
 - | JavaScript | HMTL | PHP | | Python |
-
 - E aprendi a criar alguns sistemas também como por exemplo:
 - Banco de Dados | Criação de Sites | IA
 
