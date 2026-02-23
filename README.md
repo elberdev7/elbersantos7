@@ -6,7 +6,7 @@
 - Ao longo do curso , eu utilizo algumas linguagens de programação como:
 - JavaScript | HMTL | PHP | Python
 - E aprendi a criar alguns sistemas também como por exemplo:
-- Banco de Dados | Criação de Sites | IA
+- Banco de Dados | Análise de Dados | Modelagem de Dados | Criação de Sites | IA
 
 <div>
 <a href="https://www.instagram.com/elbersantosxz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
