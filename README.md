@@ -4,7 +4,7 @@
 - Me chamo Élber e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UMC.
 
 - Ao longo do curso , eu utilizo algumas linguagens de programação como:
-- | JavaScript | HMTL | PHP | | Python |
+- JavaScript | HMTL | PHP | Python
 - E aprendi a criar alguns sistemas também como por exemplo:
 - Banco de Dados | Criação de Sites | IA
 
